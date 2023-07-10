@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anand44xy&label=Profile%20views&color=0e75b6&style=flat" alt="anand44xy" /> </p>
 
 
-I'm a passionate learner and aspiring Android Developer.
+I'm a passionate learner and aspiring Java Developer.
 * Highly skilled Java Developer with expertise in Data Structures and Algorithms (DSA) and Object-Oriented
 Programming, Collection Framework, and proficiency in version control with Git and GitHub. I am also proficient in
 Dynamic Programming, System Design, and have a keen interest in software development.
