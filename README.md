@@ -39,12 +39,8 @@ Let's connect and explore the world of software development together! 🚀
   <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" width="40" height="40"/>
   </a>
-  <a href="https://www.oracle.com/java/technologies/javaserverpages.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jsp/jsp-original-wordmark.svg" alt="JSP" width="40" height="40"/>
-  </a>
-  <a href="https://servlet.java.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/servlet/servlet-original.svg" alt="Servlet" width="40" height="40"/>
-  </a>
+
+ 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
@@ -54,9 +50,7 @@ Let's connect and explore the world of software development together! 🚀
   <a href="https://tomcat.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" alt="Apache Tomcat" width="40" height="40"/>
   </a>
-  <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/netbeans/netbeans-icon.svg" alt="Apache NetBeans" width="40" height="40"/>
-  </a>
+  
 </p>
 
 
