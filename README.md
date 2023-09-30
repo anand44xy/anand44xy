@@ -28,15 +28,36 @@ Let's connect and explore the world of software development together! 🚀
 
 - 📫 How to reach me **anand44xy@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
- <a href="https://www.linkedin.com/in/anand44xy/" target="blank"><img align="center" src="https://github.com/anand44xy/Anand-s-WorkSpace/blob/main/lnkedin%20logo/LI-In-Bug.png" alt="anand44xy" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anand44xy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dk_talks" height="30" width="40" /></a>
-</p>
 <h3 align="left">Languages and Tools:</h3>
- </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img 
-
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+  </a>
+  <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" width="40" height="40"/>
+  </a>
+  <a href="https://www.oracle.com/java/technologies/javaserverpages.html" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jsp/jsp-original-wordmark.svg" alt="JSP" width="40" height="40"/>
+  </a>
+  <a href="https://servlet.java.net/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/servlet/servlet-original.svg" alt="Servlet" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://eclipse.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" alt="Eclipse" width="40" height="40"/>
+  </a>
+  <a href="https://tomcat.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" alt="Apache Tomcat" width="40" height="40"/>
+  </a>
+  <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/netbeans/netbeans-icon.svg" alt="Apache NetBeans" width="40" height="40"/>
+  </a>
+</p>
 
 
 
