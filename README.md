@@ -7,18 +7,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anand44xy&label=Profile%20views&color=0e75b6&style=flat" alt="anand44xy" /> </p>
 
 
-I'm a passionate learner and aspiring Java Developer.
-* Highly skilled Java Developer with expertise in Spring-Boot, Hibernate, JDBC, Servlet & JSP, and Core Java. 
+I'm a passionate learner and aspiring  Full Stack Developer.
 
-🌱 Currently, I'm focused on learning and mastering Enterprise "Web Applications", DSA and System Design to build innovative and
-user-friendly applications.
-I believe in continuous learning and staying updated with the latest trends and technologies in the field of software
-development.
-
-👀 Seeking a challenging position as a Java Developer in a dynamic company to contribute to innovative projects
-and leverage my skills to drive software development excellence.
-
-🔭 If you have any exciting opportunities or projects related to Java, Web Applications, or software engineering, feel free to reach out!
+* Currently, I'm focused on learning and mastering  "MERN" for Enterprise "Web Applications" to build innovative and user-friendly applications.
+* I believe in continuous learning and staying updated with the latest trends and technologies in the field 
+  of software development.
+👀 Seeking a challenging position as a 'Full Stack Developer' in a dynamic company to contribute to innovative projects and leverage my skills to drive software development excellence.
 
 Let's connect and explore the world of software development together! 🚀
 
